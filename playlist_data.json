@@ -1,0 +1,1030 @@
+{
+    "playlist": {
+        "name": "De todo fallen",
+        "description": "",
+        "total_tracks": 279
+    },
+    "tracks": [
+        {
+            "track_name": "Someone Like You",
+            "artist_name": [
+                "Adele"
+            ],
+            "album_name": "21",
+            "release_date": "2011-01-19",
+            "popularity": 3,
+            "duration_ms": 285040
+        },
+        {
+            "track_name": "Rolling in the Deep",
+            "artist_name": [
+                "Adele"
+            ],
+            "album_name": "21",
+            "release_date": "2011-01-19",
+            "popularity": 2,
+            "duration_ms": 228293
+        },
+        {
+            "track_name": "Set Fire to the Rain",
+            "artist_name": [
+                "Adele"
+            ],
+            "album_name": "21",
+            "release_date": "2011-01-19",
+            "popularity": 1,
+            "duration_ms": 241693
+        },
+        {
+            "track_name": "Make You Feel My Love",
+            "artist_name": [
+                "Adele"
+            ],
+            "album_name": "19",
+            "release_date": "2008-01-28",
+            "popularity": 0,
+            "duration_ms": 212040
+        },
+        {
+            "track_name": "Skinny Love",
+            "artist_name": [
+                "Birdy"
+            ],
+            "album_name": "Birdy",
+            "release_date": "2011-11-04",
+            "popularity": 70,
+            "duration_ms": 201080
+        },
+        {
+            "track_name": "Wings",
+            "artist_name": [
+                "Birdy"
+            ],
+            "album_name": "Fire Within (Deluxe)",
+            "release_date": "2013-09-16",
+            "popularity": 69,
+            "duration_ms": 252106
+        },
+        {
+            "track_name": "Skinny Love - Live at the Tabernacle",
+            "artist_name": [
+                "Birdy"
+            ],
+            "album_name": "Live in London",
+            "release_date": "2012",
+            "popularity": 26,
+            "duration_ms": 246855
+        },
+        {
+            "track_name": "All You Never Say",
+            "artist_name": [
+                "Birdy"
+            ],
+            "album_name": "Fire Within (Deluxe)",
+            "release_date": "2013-09-16",
+            "popularity": 29,
+            "duration_ms": 278333
+        },
+        {
+            "track_name": "Nuestra Aflicción - MTV Unplugged",
+            "artist_name": [
+                "PXNDX"
+            ],
+            "album_name": "Panda MTV Unplugged (Live)",
+            "release_date": "2010-01-01",
+            "popularity": 37,
+            "duration_ms": 319471
+        },
+        {
+            "track_name": "Cuando no es como debiera ser",
+            "artist_name": [
+                "PANDA"
+            ],
+            "album_name": "Sinfonia Soledad",
+            "release_date": "2007-11-27",
+            "popularity": 33,
+            "duration_ms": 229720
+        },
+        {
+            "track_name": "Estoy más sohloh que ayer, pero menos que mañana - En vivo",
+            "artist_name": [
+                "PANDA"
+            ],
+            "album_name": "Sinfonia Soledad",
+            "release_date": "2007-11-27",
+            "popularity": 29,
+            "duration_ms": 171186
+        },
+        {
+            "track_name": "Nunca nadie nos podrá parar (Gracias)",
+            "artist_name": [
+                "PANDA"
+            ],
+            "album_name": "Sinfonia Soledad",
+            "release_date": "2007-11-27",
+            "popularity": 44,
+            "duration_ms": 290013
+        },
+        {
+            "track_name": "Que Lloro",
+            "artist_name": [
+                "Sin Bandera"
+            ],
+            "album_name": "Hasta Ahora",
+            "release_date": "2007-11-13",
+            "popularity": 52,
+            "duration_ms": 242360
+        },
+        {
+            "track_name": "Entra en Mi Vida",
+            "artist_name": [
+                "Sin Bandera"
+            ],
+            "album_name": "Hasta Ahora",
+            "release_date": "2007-11-13",
+            "popularity": 59,
+            "duration_ms": 249973
+        },
+        {
+            "track_name": "Mientes Tan Bien",
+            "artist_name": [
+                "Sin Bandera"
+            ],
+            "album_name": "Hasta Ahora",
+            "release_date": "2007-11-13",
+            "popularity": 56,
+            "duration_ms": 229186
+        },
+        {
+            "track_name": "Te Vi Venir",
+            "artist_name": [
+                "Sin Bandera"
+            ],
+            "album_name": "Hasta Ahora",
+            "release_date": "2007-11-13",
+            "popularity": 56,
+            "duration_ms": 195133
+        },
+        {
+            "track_name": "La Noche",
+            "artist_name": [
+                "Sandoval"
+            ],
+            "album_name": "Deja Que La Vida Te Sorprenda +",
+            "release_date": "2013-03-22",
+            "popularity": 34,
+            "duration_ms": 229733
+        },
+        {
+            "track_name": "Loco extraño",
+            "artist_name": [
+                "Sandoval"
+            ],
+            "album_name": "Lo Que Siempre Soñamos Ser",
+            "release_date": "2009-07-21",
+            "popularity": 55,
+            "duration_ms": 271626
+        },
+        {
+            "track_name": "Te Dejo en Libertad",
+            "artist_name": [
+                "Ha*Ash"
+            ],
+            "album_name": "A Tiempo",
+            "release_date": "2011-05-16",
+            "popularity": 0,
+            "duration_ms": 237413
+        },
+        {
+            "track_name": "Impermeable",
+            "artist_name": [
+                "Ha*Ash"
+            ],
+            "album_name": "A Tiempo",
+            "release_date": "2011-05-16",
+            "popularity": 0,
+            "duration_ms": 243893
+        },
+        {
+            "track_name": "Perdón, Perdón - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
+            "artist_name": [
+                "Ha*Ash"
+            ],
+            "album_name": "Perdón, Perdón (HA-ASH Primera Fila - Hecho Realidad [En Vivo])",
+            "release_date": "2014-09-22",
+            "popularity": 35,
+            "duration_ms": 227973
+        },
+        {
+            "track_name": "¡Corre!",
+            "artist_name": [
+                "Jesse & Joy"
+            ],
+            "album_name": "¿Con Quién Se Queda El Perro?",
+            "release_date": "2011-12-06",
+            "popularity": 71,
+            "duration_ms": 288893
+        },
+        {
+            "track_name": "Llorar (feat. Mario Domm)",
+            "artist_name": [
+                "Jesse & Joy",
+                "Mario Domm"
+            ],
+            "album_name": "¿Con Quién Se Queda El Perro? (Deluxe)",
+            "release_date": "2012-02-21",
+            "popularity": 68,
+            "duration_ms": 225796
+        },
+        {
+            "track_name": "La De La Mala Suerte",
+            "artist_name": [
+                "Jesse & Joy"
+            ],
+            "album_name": "¿Con Quién Se Queda El Perro?",
+            "release_date": "2011-12-06",
+            "popularity": 72,
+            "duration_ms": 251146
+        },
+        {
+            "track_name": "Llegaste tú",
+            "artist_name": [
+                "Jesse & Joy"
+            ],
+            "album_name": "Six Pack: Jesse & Joy - EP",
+            "release_date": "2010-03-09",
+            "popularity": 38,
+            "duration_ms": 246666
+        },
+        {
+            "track_name": "Aquí Voy",
+            "artist_name": [
+                "Jesse & Joy"
+            ],
+            "album_name": "¿Con Quién Se Queda El Perro? (Deluxe)",
+            "release_date": "2012-02-21",
+            "popularity": 24,
+            "duration_ms": 187360
+        },
+        {
+            "track_name": "Quiero Que Me Quieras",
+            "artist_name": [
+                "Jesse & Joy"
+            ],
+            "album_name": "¿Con Quién Se Queda El Perro? (Deluxe)",
+            "release_date": "2012-02-21",
+            "popularity": 21,
+            "duration_ms": 181733
+        },
+        {
+            "track_name": "Me Llora El Cielo",
+            "artist_name": [
+                "Jesse & Joy"
+            ],
+            "album_name": "¿Con Quién Se Queda El Perro? (Deluxe)",
+            "release_date": "2012-02-21",
+            "popularity": 28,
+            "duration_ms": 226986
+        },
+        {
+            "track_name": "Me Voy",
+            "artist_name": [
+                "Jesse & Joy"
+            ],
+            "album_name": "¿Con Quién Se Queda El Perro? (Deluxe)",
+            "release_date": "2012-02-21",
+            "popularity": 25,
+            "duration_ms": 207389
+        },
+        {
+            "track_name": "Me Quiero Enamorar",
+            "artist_name": [
+                "Jesse & Joy"
+            ],
+            "album_name": "¿Con Quién Se Queda El Perro? (Deluxe)",
+            "release_date": "2012-02-21",
+            "popularity": 29,
+            "duration_ms": 238853
+        },
+        {
+            "track_name": "Perfecta",
+            "artist_name": [
+                "Jesse & Joy"
+            ],
+            "album_name": "¿Con Quién Se Queda El Perro? (Deluxe)",
+            "release_date": "2012-02-21",
+            "popularity": 44,
+            "duration_ms": 192933
+        },
+        {
+            "track_name": "Cómo No",
+            "artist_name": [
+                "Jesse & Joy"
+            ],
+            "album_name": "¿Con Quién Se Queda El Perro? (Deluxe)",
+            "release_date": "2012-02-21",
+            "popularity": 25,
+            "duration_ms": 216013
+        },
+        {
+            "track_name": "Díganle Que Estoy Bien",
+            "artist_name": [
+                "Los Claxons"
+            ],
+            "album_name": "Un Día de Sol",
+            "release_date": "2013-07-02",
+            "popularity": 28,
+            "duration_ms": 217066
+        },
+        {
+            "track_name": "Te Voy a Dejar Ir",
+            "artist_name": [
+                "Los Claxons"
+            ],
+            "album_name": "Un Día de Sol",
+            "release_date": "2013-07-02",
+            "popularity": 25,
+            "duration_ms": 222320
+        },
+        {
+            "track_name": "Igual Que Ayer",
+            "artist_name": [
+                "Los Claxons"
+            ],
+            "album_name": "Un Día de Sol",
+            "release_date": "2013-07-02",
+            "popularity": 15,
+            "duration_ms": 244800
+        },
+        {
+            "track_name": "Aunque no sea conmigo (feat. Café Tacvba)",
+            "artist_name": [
+                "Celso Piña",
+                "Café Tacvba"
+            ],
+            "album_name": "Barrio Bravo",
+            "release_date": "2001-03-19",
+            "popularity": 60,
+            "duration_ms": 213613
+        },
+        {
+            "track_name": "Bailando - Spanish Version",
+            "artist_name": [
+                "Enrique Iglesias",
+                "Descemer Bueno",
+                "Gente De Zona"
+            ],
+            "album_name": "SEX AND LOVE (Deluxe)",
+            "release_date": "2014-01-01",
+            "popularity": 66,
+            "duration_ms": 243413
+        },
+        {
+            "track_name": "Y Que",
+            "artist_name": [
+                "Inspector"
+            ],
+            "album_name": "Inspector",
+            "release_date": "2009-06-01",
+            "popularity": 63,
+            "duration_ms": 225826
+        },
+        {
+            "track_name": "No Piensa En Ti",
+            "artist_name": [
+                "Inspector"
+            ],
+            "album_name": "Unidad, Cerveza y Ska",
+            "release_date": "2004-01-01",
+            "popularity": 56,
+            "duration_ms": 249906
+        },
+        {
+            "track_name": "Ex de Verdad - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
+            "artist_name": [
+                "Ha*Ash"
+            ],
+            "album_name": "HA-ASH Primera Fila - Hecho Realidad",
+            "release_date": "2014-11-11",
+            "popularity": 70,
+            "duration_ms": 247760
+        },
+        {
+            "track_name": "Qué Más da (feat. Joy Huerta & Julio Ramírez) - HA-ASH Primera Fila - Hecho Realidad [Acústico en Vivo]",
+            "artist_name": [
+                "Ha*Ash",
+                "Joy",
+                "Julio Ramirez"
+            ],
+            "album_name": "HA-ASH Primera Fila - Hecho Realidad",
+            "release_date": "2014-11-11",
+            "popularity": 33,
+            "duration_ms": 200626
+        },
+        {
+            "track_name": "Sé Que Te Vas (feat. Matisse) - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
+            "artist_name": [
+                "Ha*Ash",
+                "Matisse"
+            ],
+            "album_name": "HA-ASH Primera Fila - Hecho Realidad",
+            "release_date": "2014-11-11",
+            "popularity": 62,
+            "duration_ms": 243600
+        },
+        {
+            "track_name": "No Tiene Devolución - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
+            "artist_name": [
+                "Ha*Ash"
+            ],
+            "album_name": "HA-ASH Primera Fila - Hecho Realidad",
+            "release_date": "2014-11-11",
+            "popularity": 30,
+            "duration_ms": 213853
+        },
+        {
+            "track_name": "Ecos De Amor",
+            "artist_name": [
+                "Jesse & Joy"
+            ],
+            "album_name": "Ecos De Amor",
+            "release_date": "2015-08-14",
+            "popularity": 37,
+            "duration_ms": 215112
+        },
+        {
+            "track_name": "El Perdón (with Enrique Iglesias)",
+            "artist_name": [
+                "Nicky Jam",
+                "Enrique Iglesias"
+            ],
+            "album_name": "El Perdón (with Enrique Iglesias)",
+            "release_date": "2015-04-08",
+            "popularity": 0,
+            "duration_ms": 207013
+        },
+        {
+            "track_name": "Volar",
+            "artist_name": [
+                "Macaco"
+            ],
+            "album_name": "Historias Tattooadas",
+            "release_date": "2015-03-23",
+            "popularity": 46,
+            "duration_ms": 211293
+        },
+        {
+            "track_name": "Ya Es Muy Tarde",
+            "artist_name": [
+                "Yuridia"
+            ],
+            "album_name": "Ya Es Muy Tarde",
+            "release_date": "2015-06-26",
+            "popularity": 0,
+            "duration_ms": 242333
+        },
+        {
+            "track_name": "Si Fuera Fácil",
+            "artist_name": [
+                "Matisse"
+            ],
+            "album_name": "Sube",
+            "release_date": "2015-06-09",
+            "popularity": 48,
+            "duration_ms": 209093
+        },
+        {
+            "track_name": "La Misma Luna",
+            "artist_name": [
+                "Matisse"
+            ],
+            "album_name": "Sube (Versión Deluxe)",
+            "release_date": "2015-06-09",
+            "popularity": 23,
+            "duration_ms": 195653
+        },
+        {
+            "track_name": "Mi Peor Error - Versión Acústica",
+            "artist_name": [
+                "Matisse"
+            ],
+            "album_name": "Sube (Versión Deluxe)",
+            "release_date": "2015-06-09",
+            "popularity": 26,
+            "duration_ms": 200053
+        },
+        {
+            "track_name": "Ahora",
+            "artist_name": [
+                "Matisse"
+            ],
+            "album_name": "Sube (Versión Deluxe)",
+            "release_date": "2015-06-09",
+            "popularity": 20,
+            "duration_ms": 204520
+        },
+        {
+            "track_name": "Lo Aprendí de Ti - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
+            "artist_name": [
+                "Ha*Ash"
+            ],
+            "album_name": "HA-ASH Primera Fila - Hecho Realidad",
+            "release_date": "2014-11-11",
+            "popularity": 72,
+            "duration_ms": 197800
+        },
+        {
+            "track_name": "Hello",
+            "artist_name": [
+                "Adele"
+            ],
+            "album_name": "Hello",
+            "release_date": "2015-10-23",
+            "popularity": 0,
+            "duration_ms": 295493
+        },
+        {
+            "track_name": "Por Última Vez",
+            "artist_name": [
+                "Matisse"
+            ],
+            "album_name": "Sube",
+            "release_date": "2015-06-09",
+            "popularity": 51,
+            "duration_ms": 173826
+        },
+        {
+            "track_name": "A Olvidarte",
+            "artist_name": [
+                "Matisse"
+            ],
+            "album_name": "Sube (Versión Deluxe)",
+            "release_date": "2015-06-09",
+            "popularity": 20,
+            "duration_ms": 233626
+        },
+        {
+            "track_name": "Así el Amor Se Muere",
+            "artist_name": [
+                "Matisse"
+            ],
+            "album_name": "Sube (Versión Deluxe)",
+            "release_date": "2015-06-09",
+            "popularity": 21,
+            "duration_ms": 239786
+        },
+        {
+            "track_name": "Cuando Estabas Conmigo - Versión Acústica",
+            "artist_name": [
+                "Matisse"
+            ],
+            "album_name": "Sube (Versión Deluxe)",
+            "release_date": "2015-06-09",
+            "popularity": 18,
+            "duration_ms": 184333
+        },
+        {
+            "track_name": "Más Que Amigos",
+            "artist_name": [
+                "Matisse"
+            ],
+            "album_name": "Sube",
+            "release_date": "2015-06-09",
+            "popularity": 58,
+            "duration_ms": 177640
+        },
+        {
+            "track_name": "Sé Que Te Vas - Versión Acústica",
+            "artist_name": [
+                "Matisse"
+            ],
+            "album_name": "Así Nacieron",
+            "release_date": "2015-04-28",
+            "popularity": 46,
+            "duration_ms": 185760
+        },
+        {
+            "track_name": "Saludos Desde Turquía",
+            "artist_name": [
+                "PXNDX"
+            ],
+            "album_name": "Sangre Fría",
+            "release_date": "2013-01-01",
+            "popularity": 42,
+            "duration_ms": 232160
+        },
+        {
+            "track_name": "Picky",
+            "artist_name": [
+                "Joey Montana"
+            ],
+            "album_name": "Picky",
+            "release_date": "2015-06-23",
+            "popularity": 42,
+            "duration_ms": 180640
+        },
+        {
+            "track_name": "La Bella Y La Bestia",
+            "artist_name": [
+                "Porta",
+                "Norykko"
+            ],
+            "album_name": "Trastorno Bipolar",
+            "release_date": "2009-01-01",
+            "popularity": 60,
+            "duration_ms": 308946
+        },
+        {
+            "track_name": "Antes De Mentirte",
+            "artist_name": [
+                "MC Aese"
+            ],
+            "album_name": "Antes De Mentirte",
+            "release_date": "2015-06-02",
+            "popularity": 16,
+            "duration_ms": 208373
+        },
+        {
+            "track_name": "Dile Que - Bonus Track",
+            "artist_name": [
+                "Romo One"
+            ],
+            "album_name": "La Música & Su Idioma",
+            "release_date": "2014-10-07",
+            "popularity": 0,
+            "duration_ms": 228670
+        },
+        {
+            "track_name": "Senorita",
+            "artist_name": [
+                "Arsenal de Rimas"
+            ],
+            "album_name": "Un Piedra Papel",
+            "release_date": "2007-02-02",
+            "popularity": 35,
+            "duration_ms": 290403
+        },
+        {
+            "track_name": "Ya Me Enteré",
+            "artist_name": [
+                "Reik"
+            ],
+            "album_name": "Des/Amor",
+            "release_date": "2016-06-17",
+            "popularity": 74,
+            "duration_ms": 204173
+        },
+        {
+            "track_name": "Dónde está el amor (feat. Jesse & Joy)",
+            "artist_name": [
+                "Pablo Alborán",
+                "Jesse & Joy"
+            ],
+            "album_name": "Tanto (Edición Premium)",
+            "release_date": "2012",
+            "popularity": 72,
+            "duration_ms": 233895
+        },
+        {
+            "track_name": "Para Empezar",
+            "artist_name": [
+                "Leonel García"
+            ],
+            "album_name": "Tú",
+            "release_date": "2011-01-25",
+            "popularity": 58,
+            "duration_ms": 258733
+        },
+        {
+            "track_name": "Fuiste Tú (feat. Gaby Moreno)",
+            "artist_name": [
+                "Ricardo Arjona",
+                "Gaby Moreno"
+            ],
+            "album_name": "Independiente + Demos",
+            "release_date": "2011",
+            "popularity": 72,
+            "duration_ms": 265306
+        },
+        {
+            "track_name": "La Posibilidad",
+            "artist_name": [
+                "Los Claxons"
+            ],
+            "album_name": "Centro, Sur y al Otro Lado",
+            "release_date": "2015-10-27",
+            "popularity": 44,
+            "duration_ms": 232600
+        },
+        {
+            "track_name": "Antes Que al Mío",
+            "artist_name": [
+                "Los Claxons"
+            ],
+            "album_name": "Camino a Encontrarte (Edición Especial)",
+            "release_date": "2011-09-01",
+            "popularity": 46,
+            "duration_ms": 181280
+        },
+        {
+            "track_name": "Me Dediqué a Perderte",
+            "artist_name": [
+                "Alejandro Fernández"
+            ],
+            "album_name": "Alejandro Fernandez 15 Años De Exitos",
+            "release_date": "2003-05-09",
+            "popularity": 0,
+            "duration_ms": 232893
+        },
+        {
+            "track_name": "Creo en Ti",
+            "artist_name": [
+                "Reik"
+            ],
+            "album_name": "Peligro",
+            "release_date": "2012-06-22",
+            "popularity": 55,
+            "duration_ms": 163333
+        },
+        {
+            "track_name": "Lo Peor Que Me Ha Pasado Fue Tu Amor",
+            "artist_name": [
+                "Matisse"
+            ],
+            "album_name": "Sube",
+            "release_date": "2015-06-09",
+            "popularity": 33,
+            "duration_ms": 194986
+        },
+        {
+            "track_name": "Dueles",
+            "artist_name": [
+                "Jesse & Joy"
+            ],
+            "album_name": "Un Besito Más",
+            "release_date": "2015-12-04",
+            "popularity": 78,
+            "duration_ms": 247640
+        },
+        {
+            "track_name": "Querido Tommy",
+            "artist_name": [
+                "Tommy Torres"
+            ],
+            "album_name": "12 Historias",
+            "release_date": "2012-10-02",
+            "popularity": 52,
+            "duration_ms": 299786
+        },
+        {
+            "track_name": "Brillas",
+            "artist_name": [
+                "León Larregui"
+            ],
+            "album_name": "Solstis - De León Larregui",
+            "release_date": "2012-01-01",
+            "popularity": 1,
+            "duration_ms": 226186
+        },
+        {
+            "track_name": "Aunque no te pueda ver",
+            "artist_name": [
+                "Alex Ubago"
+            ],
+            "album_name": "Fantasía o realidad",
+            "release_date": "2003-11-24",
+            "popularity": 71,
+            "duration_ms": 266666
+        },
+        {
+            "track_name": "Así Era Ella - Versión Acústica",
+            "artist_name": [
+                "Matisse"
+            ],
+            "album_name": "Así Nacieron",
+            "release_date": "2015-04-28",
+            "popularity": 40,
+            "duration_ms": 182333
+        },
+        {
+            "track_name": "Flightless Bird, American Mouth",
+            "artist_name": [
+                "Iron & Wine"
+            ],
+            "album_name": "The Shepherd's Dog",
+            "release_date": "2007-09-25",
+            "popularity": 0,
+            "duration_ms": 242226
+        },
+        {
+            "track_name": "Juntos",
+            "artist_name": [
+                "Emilio Navaira",
+                "Emelu Navaira",
+                "Emilio Navaira IV",
+                "Diego Navaira"
+            ],
+            "album_name": "Juntos",
+            "release_date": "2015-05-08",
+            "popularity": 26,
+            "duration_ms": 221596
+        },
+        {
+            "track_name": "Cómo Te Atreves",
+            "artist_name": [
+                "Morat"
+            ],
+            "album_name": "Sobre El Amor Y Sus Efectos Secundarios",
+            "release_date": "2016-06-17",
+            "popularity": 72,
+            "duration_ms": 240560
+        },
+        {
+            "track_name": "En Un Sólo Dia",
+            "artist_name": [
+                "Morat"
+            ],
+            "album_name": "Sobre El Amor Y Sus Efectos Secundarios",
+            "release_date": "2016-06-17",
+            "popularity": 67,
+            "duration_ms": 202120
+        },
+        {
+            "track_name": "Di Que No Te Vas",
+            "artist_name": [
+                "Morat"
+            ],
+            "album_name": "Sobre El Amor Y Sus Efectos Secundarios",
+            "release_date": "2016-06-17",
+            "popularity": 51,
+            "duration_ms": 238160
+        },
+        {
+            "track_name": "Mil Tormentas",
+            "artist_name": [
+                "Morat",
+                "Cali Y El Dandee"
+            ],
+            "album_name": "Sobre El Amor Y Sus Efectos Secundarios",
+            "release_date": "2016-06-17",
+            "popularity": 61,
+            "duration_ms": 233440
+        },
+        {
+            "track_name": "Cuánto Me Duele",
+            "artist_name": [
+                "Morat"
+            ],
+            "album_name": "Sobre El Amor Y Sus Efectos Secundarios",
+            "release_date": "2016-06-17",
+            "popularity": 57,
+            "duration_ms": 230160
+        },
+        {
+            "track_name": "¿Qué Nos Pasó?",
+            "artist_name": [
+                "Reyli Barba",
+                "Yuridia",
+                "Armando Ávila"
+            ],
+            "album_name": "Bien Acompañado",
+            "release_date": "2011-03-22",
+            "popularity": 0,
+            "duration_ms": 231893
+        },
+        {
+            "track_name": "Vengo Del Futuro",
+            "artist_name": [
+                "KURT"
+            ],
+            "album_name": "Vengo Del Futuro",
+            "release_date": "2017-02-10",
+            "popularity": 34,
+            "duration_ms": 256626
+        },
+        {
+            "track_name": "10 Veces Mejor",
+            "artist_name": [
+                "KURT"
+            ],
+            "album_name": "10 Veces Mejor",
+            "release_date": "2016-10-14",
+            "popularity": 24,
+            "duration_ms": 203186
+        },
+        {
+            "track_name": "Prometiste - MTV Unplugged [En Vivo]",
+            "artist_name": [
+                "Pepe Aguilar",
+                "Ángela Aguilar",
+                "Melissa",
+                "La Marisoul"
+            ],
+            "album_name": "Pepe Aguilar MTV Unplugged [(MTV Unplugged) [En Vivo]]",
+            "release_date": "2014-10-21",
+            "popularity": 0,
+            "duration_ms": 305120
+        },
+        {
+            "track_name": "Quédate conmigo - Versión Baku",
+            "artist_name": [
+                "Pastora Soler"
+            ],
+            "album_name": "Love is Forever",
+            "release_date": "2013-02-12",
+            "popularity": 13,
+            "duration_ms": 182893
+        },
+        {
+            "track_name": "Mi Estanciera y Yo - Vivo",
+            "artist_name": [
+                "Los Caligaris",
+                "Piti Fernández"
+            ],
+            "album_name": "Somos Todos Vivos",
+            "release_date": "2016-10-14",
+            "popularity": 27,
+            "duration_ms": 196680
+        },
+        {
+            "track_name": "Que Corran - Vivo",
+            "artist_name": [
+                "Los Caligaris"
+            ],
+            "album_name": "Somos Todos Vivos",
+            "release_date": "2016-10-14",
+            "popularity": 25,
+            "duration_ms": 306680
+        },
+        {
+            "track_name": "Don't You Remember",
+            "artist_name": [
+                "Adele"
+            ],
+            "album_name": "21",
+            "release_date": "2011-01-19",
+            "popularity": 0,
+            "duration_ms": 243200
+        },
+        {
+            "track_name": "Yo Más Te Adoro",
+            "artist_name": [
+                "Morat"
+            ],
+            "album_name": "Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)",
+            "release_date": "2017-06-23",
+            "popularity": 42,
+            "duration_ms": 202426
+        },
+        {
+            "track_name": "Aprender A Quererte",
+            "artist_name": [
+                "Morat"
+            ],
+            "album_name": "Sobre El Amor Y Sus Efectos Secundarios",
+            "release_date": "2016-06-17",
+            "popularity": 71,
+            "duration_ms": 229213
+        },
+        {
+            "track_name": "Amor Con Hielo",
+            "artist_name": [
+                "Morat"
+            ],
+            "album_name": "Amor Con Hielo",
+            "release_date": "2017-02-24",
+            "popularity": 0,
+            "duration_ms": 203690
+        },
+        {
+            "track_name": "Me Estoy Enamorando",
+            "artist_name": [
+                "Inspector"
+            ],
+            "album_name": "Inspección Retroacústica",
+            "release_date": "2014-07-31",
+            "popularity": 34,
+            "duration_ms": 297693
+        },
+        {
+            "track_name": "Kilómetros",
+            "artist_name": [
+                "Los Caligaris"
+            ],
+            "album_name": "No Es Lo Que Parece",
+            "release_date": "2007-07-01",
+            "popularity": 63,
+            "duration_ms": 191460
+        },
+        {
+            "track_name": "Razón",
+            "artist_name": [
+                "Los Caligaris"
+            ],
+            "album_name": "Bailarín Apocalíptico",
+            "release_date": "2011-09-04",
+            "popularity": 64,
+            "duration_ms": 195580
+        }
+    ]
+}
