@@ -5,6 +5,9 @@ import requests
 import re
 import json
 
+#LO VA A EXPLICAR JORGE
+
+
 with open('playlist_data.json') as f:
     data = json.load(f)
 
