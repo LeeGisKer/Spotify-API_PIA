@@ -50,7 +50,7 @@ def top_artistas(data,top_n=10):
     ax2.set_ylabel('Popularidad Promedio', color='r')
     ax2.tick_params(axis='y', labelcolor='r')
 
-    # Título y leyendas
+
     plt.title(f'Top {top_n} Artistas Más Frecuentes y su Popularidad Promedio')
     fig.tight_layout()
     plt.show()
