@@ -78,10 +78,8 @@ def get_playlist_data():
         
     return jsonify(structured_data)
 
-
-create_charts()
-
 main()
+create_charts()
 
 if __name__ == '__main__':
     app.run(debug=True)
