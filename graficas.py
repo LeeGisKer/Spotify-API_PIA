@@ -22,6 +22,34 @@ def histograma_duracion(data):
     plt.ylabel('Número de Canciones')
     plt.show()
     
+def pastel(data):
+    popularidad_artistas = defaultdict(int)
+    for track in data['tracks']:
+        for artist in track['artist_name']:
+            popularidad_artistas[artist] += track['popularity']
+    
+    top_artistas = sorted(popularidad_artistas.items(), key=lambda x: x[1], reverse=True)[:5]
+    labels = [artist[0] for artist in top_artistas]
+    sizes = [artist[1] for artist in top_artistas]
+    
+    plt.pie(sizes, labels=labels, autopct='%1.1f%%', shadow=True, startangle=140)
+    plt.axis('equal')
+    plt.title('Top 5 Artistas con Mayor Popularidad')
+    plt.show()
+    
+def lineal(data):
+    _, durations = datavisual(data)
+    indices = list(range(len(durations)))
+    
+    plt.plot(indices, durations, marker='o')
+    plt.title('Distribución de la Duración de Canciones')
+    plt.xlabel('Canción')
+    plt.ylabel('Duración (minutos)')
+    plt.grid()
+    plt.show()
+
+
+    
 def top_artistas(data,top_n=10):
     artista_mas_popular, popularidad, artista_mas_repetido, frecuencia = artistas_mas_populares(data)
     popularidad_artistas = defaultdict(list)
@@ -57,12 +85,11 @@ def top_artistas(data,top_n=10):
     
 def create_charts():
     data = load_data()
-        
     histograma_popularidad(data)
     histograma_duracion(data)
-    top_artistas(data,top_n=10)
-        
-    return create_charts
+    top_artistas(data, top_n=10)
+    pastel(data)
+    lineal(data)
     
 if __name__ == "__main__":
     create_charts()
