@@ -39,9 +39,7 @@ def clean_data(data):
             'popularity': track_info.get('popularity'),
             'duration_ms': track_info.get('duration_ms'),
         })
-        
 
-    
     return cleaned_data
 
 
