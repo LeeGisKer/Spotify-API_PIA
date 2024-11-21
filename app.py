@@ -12,6 +12,8 @@ from scripts import main
 from excel import crearexcel
 
 
+#Para la propia creacion del archivo Excel, debe existir una carpeta llamada "graficas" para el almacenamiento de las fotos de las graficas
+
 app = Flask(__name__)
 
 client_id = 'de6e57a5354c491a96ec3b6ff0b09ca8'
