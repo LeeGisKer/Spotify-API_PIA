@@ -34,7 +34,7 @@ def estadisticas(popularity, duracion):
         'duracion_mediana': median(duracion),
         'duracion_std_dev': stdev(duracion)
     }
-    return stats
+
 
 def artistas_mas_populares(data):
     popularidad_artistas = defaultdict(list)
