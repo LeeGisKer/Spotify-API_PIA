@@ -4,16 +4,18 @@ from collections import defaultdict
 import matplotlib.pyplot as plt
 import requests
 import re
+import os
 import json
 
 from graficas import create_charts
 from scripts import main
+from excel import crearexcel
+
 
 app = Flask(__name__)
 
 client_id = 'de6e57a5354c491a96ec3b6ff0b09ca8'
 client_secret = 'b8d8405d57764a03a9b83cbcd1b42e9e'
-
 
 def get_spotify_token():
     auth_url = 'https://accounts.spotify.com/api/token'
@@ -76,8 +78,18 @@ def get_playlist_data():
         
     return jsonify(structured_data)
 
+def maincrearexcel():
+    try:
+        crearexcel()
+        return "Excel creado con éxito."
+    except Exception as e:
+        return f"Error al crear el Excel: {str(e)}", 500
+
 main()
-create_charts()
+
+crearexcel()
+
 
 if __name__ == '__main__':
     app.run(debug=True, use_reloader=False)
+   

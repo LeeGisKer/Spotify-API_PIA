@@ -63,8 +63,6 @@ def main():
         print(f"{key}: {value:.2f}")
         
     artista_mas_popular, popularidad, artista_mas_repetido, frecuencia = artistas_mas_populares(data)
-    print(f"\nEl artista más popular es: {artista_mas_popular} con una popularidad promedio de {popularidad:.2f}")
-    print(f"El artista que más se repite es: {artista_mas_repetido} con {frecuencia} canciones en la playlist")
         
 if __name__ == "__main__":
     main()

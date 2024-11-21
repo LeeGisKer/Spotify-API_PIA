@@ -1,28 +1,47 @@
 import numpy as np
 import json
 import matplotlib.pyplot as plt
+import os
+
+from openpyxl import Workbook
+from openpyxl.chart import BarChart, PieChart, LineChart, Reference
+from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
 
 from collections import defaultdict
 from scripts import load_data, datavisual, artistas_mas_populares
-
+import matplotlib
+matplotlib.use('Agg')
 
 def histograma_popularidad(data):
+    fig, ax = plt.subplots()
+    canvas = FigureCanvas(fig)
     popularity, _ = datavisual(data)
     plt.hist(popularity, bins=10, edgecolor='black')
     plt.title('Distribución de Popularidad de Canciones')
     plt.xlabel('Popularidad')
     plt.ylabel('Número de Canciones')
-    plt.show()
+    canvas.draw()
+    fig.savefig('graficas/histograma_popularidad.png', bbox_inches='tight')
+    plt.close(fig)
+    
+    
     
 def histograma_duracion(data):
+    fig, ax = plt.subplots()
+    canvas = FigureCanvas(fig)
     _, durations = datavisual(data)
     plt.hist(durations, bins=10, edgecolor='black')
     plt.title('Distribución de la Duración de Canciones')
     plt.xlabel('Duración (minutos)')
     plt.ylabel('Número de Canciones')
-    plt.show()
+    canvas.draw()
+    fig.savefig('graficas/histograma_duracion.png', bbox_inches='tight')
+    plt.close(fig)
+    
     
 def pastel(data):
+    fig, ax = plt.subplots()
+    canvas = FigureCanvas(fig)
     popularidad_artistas = defaultdict(int)
     for track in data['tracks']:
         for artist in track['artist_name']:
@@ -35,9 +54,14 @@ def pastel(data):
     plt.pie(sizes, labels=labels, autopct='%1.1f%%', shadow=True, startangle=140)
     plt.axis('equal')
     plt.title('Top 5 Artistas con Mayor Popularidad')
-    plt.show()
+    canvas.draw()
+    fig.savefig('graficas/pastel.png', bbox_inches='tight')
+    plt.close(fig)
+    
     
 def lineal(data):
+    fig, ax = plt.subplots()
+    canvas = FigureCanvas(fig)
     _, durations = datavisual(data)
     indices = list(range(len(durations)))
     
@@ -46,11 +70,15 @@ def lineal(data):
     plt.xlabel('Canción')
     plt.ylabel('Duración (minutos)')
     plt.grid()
-    plt.show()
-
-
+    canvas.draw()
+    fig.savefig('graficas/lineal.png', bbox_inches='tight')
+    plt.close(fig)
     
+  
 def top_artistas(data,top_n=10):
+    fig, ax1 = plt.subplots()
+    canvas = FigureCanvas(fig)
+    
     artista_mas_popular, popularidad, artista_mas_repetido, frecuencia = artistas_mas_populares(data)
     popularidad_artistas = defaultdict(list)
     
@@ -81,7 +109,39 @@ def top_artistas(data,top_n=10):
 
     plt.title(f'Top {top_n} Artistas Más Frecuentes y su Popularidad Promedio')
     fig.tight_layout()
-    plt.show()
+    canvas.draw()
+    fig.savefig('graficas/topartistas.png', bbox_inches='tight')
+    plt.close(fig)
+
+    
+def graficas_imagenes(data):
+    graph_folder = 'graficas'
+    os.makedirs(graph_folder, exist_ok=True)
+
+    # Histograma de Popularidad
+    plt.figure()
+    histograma_popularidad(data)
+    plt.close()  # Ensure figure is closed after saving
+
+    # Histograma de Duración
+    plt.figure()
+    histograma_duracion(data)
+    plt.close()
+
+    # Gráfica de Pastel
+    plt.figure()
+    pastel(data)
+    plt.close()
+
+    # Gráfica Lineal
+    plt.figure()
+    lineal(data)
+    plt.close()
+
+    # Top Artistas
+    plt.figure()
+    top_artistas(data)
+    plt.close()
     
 def create_charts():
     data = load_data()
@@ -90,6 +150,7 @@ def create_charts():
     top_artistas(data, top_n=10)
     pastel(data)
     lineal(data)
+
     
 if __name__ == "__main__":
     create_charts()
