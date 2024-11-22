@@ -121,8 +121,8 @@ def graficas_imagenes(data):
     # Histograma de Popularidad
     plt.figure()
     histograma_popularidad(data)
-    plt.close()  # Ensure figure is closed after saving
-
+    plt.close()  
+    
     # Histograma de Duración
     plt.figure()
     histograma_duracion(data)
