@@ -16,8 +16,8 @@ from excel import crearexcel
 
 app = Flask(__name__)
 
-client_id = 'de6e57a5354c491a96ec3b6ff0b09ca8'
-client_secret = 'b8d8405d57764a03a9b83cbcd1b42e9e'
+client_id = ''
+client_secret = ''
 
 def get_spotify_token():
     auth_url = 'https://accounts.spotify.com/api/token'
